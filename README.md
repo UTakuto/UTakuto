@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=UTakuto&layout=compact&theme=onedrak)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UTakuto&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
