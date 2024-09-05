@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=UTakuto&theme=drak&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=UTakuto&layout=compact&theme=onedrak)
 
 
 
