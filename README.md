@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={UTakuto}&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
 
 
