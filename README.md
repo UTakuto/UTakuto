@@ -4,6 +4,10 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTakuto&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=UTakuto&theme=onedark&show_icons=ture" />
 </p>
+
+## My Skills & Now Learning
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
 <!--
 **UTakuto/UTakuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
