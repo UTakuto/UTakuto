@@ -6,7 +6,7 @@
 </p>
 
 ## My Skills & Now Learning
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,pug,sass,php,react,next,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,pug,sass,php,react,next,swift,firebase)](https://skillicons.dev)
 
 <!--
 **UTakuto/UTakuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
