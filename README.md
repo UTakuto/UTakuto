@@ -8,7 +8,7 @@
 ## My Skills & Now Learning
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,pug,sass,php,react,next,swift,firebase,npm)](https://skillicons.dev)
 
-## Use Tool
+## My Tool
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,notion)](https://skillicons.dev)
 
 <!--
