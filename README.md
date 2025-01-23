@@ -6,7 +6,8 @@
 </p>
 
 ## My Skills & Now Learning
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,pug,sass,php,react,next,swift,firebase,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,js,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,php,swift,firebase,npm)](https://skillicons.dev)
 
 ## My Tool
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,notion)](https://skillicons.dev)
